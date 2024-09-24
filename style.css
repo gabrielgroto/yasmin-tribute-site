@@ -26,6 +26,11 @@ body {
     box-shadow: 3px 1px 22px rgba(224, 7, 199, 0.548);
 }
 
+.texto {
+    margin-top: 2rem;
+    text-transform: uppercase;
+    text-align: center;}
+
 .textoDiv {
     margin-top: 2rem;
     width: 2rem;
