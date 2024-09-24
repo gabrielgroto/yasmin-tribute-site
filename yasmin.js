@@ -2,7 +2,7 @@ const bnt = document.querySelector("#btnPesquisar");
 const nameM = prompt("Coloque aqui o nome da mulher do Gabriel:");
 const textDiv = document.querySelector(".texto");
 const text = document.createElement("h1");
-textoDiv.appendChild(text);
+textDiv.appendChild(text);
 bnt.addEventListener("click", functionClick);
 function functionClick (event) {
     event.preventDefault();
