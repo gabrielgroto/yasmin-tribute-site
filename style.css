@@ -2,7 +2,7 @@
     text-align: center;
 }
 
-body {
+html {
     font-family: Arial, Helvetica, sans-serif;
     background: linear-gradient(to right, #fbc2eb, #a6c1ee);
   background-repeat: no-repeat;
