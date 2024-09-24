@@ -8,6 +8,9 @@ body {
   background: linear-gradient(to right, #fbc2eb, #a6c1ee);
   background-repeat: no-repeat;
   background-size: cover;
+display: flex;
+align-itens: center;
+justify-content: center;
 }
 
 #btnPesquisar {
