@@ -8,11 +8,11 @@ bnt.addEventListener("click", functionClick);
 function functionClick (event) {
     event.preventDefault();
     if (nameM === 'Yasmin Kuhnen') {
-        alert(`O nome da mulher do Gabriel está correto, ela é a ${nameM}!`);
+        alert(`O nome da mulher do Gabriel Groto está correto, ela é a ${nameM}!`);
         text.innerText = 'Te amo amor! S2';
     }
     else {
-        alert('O nome da mulher do Gabriel está incorreto! Corrige essa porra.')
+        alert('O nome da mulher do Gabriel Groto está incorreto! Corrige essa porra.')
         text.innerText = 'Sai daqui cadela feiosa!';
         return false
     }
