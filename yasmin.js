@@ -11,7 +11,7 @@ function functionClick (event) {
         text.innerText('Te amo!');
     }
     else {
-        alert.error('O nome da mulher do Gabriel está incorreto! Corrige essa porra.');
+        alert('O nome da mulher do Gabriel está incorreto! Corrige essa porra.');
         textoDiv.appendChild(text);
         text.innerText('Sai daqui cadela');
         return false
