@@ -27,9 +27,8 @@ body {
 }
 
 .textoDiv {
+    margin-top: 2rem;
+    width: 2rem;
+    text-transform: uppercase;
     text-align: center;
-}
-
-.texto {
-    text-trasnform: uppercase;
 }
