@@ -1,7 +1,5 @@
 .container {
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
 }
 
 body {
@@ -11,8 +9,8 @@ body {
 #btnPesquisar {
     margin-top: 4rem;
     padding: 4rem;
-    box-shadow: 2px 0.5px 0
-        5px rgba(224, 7, 7, 0.548);
+    box-shadow: 3px 1px
+        22px rgba(224, 7, 7, 0.548);
     font-weight: 700;
     text-align: center;
     border-radius: 0.5rem;
@@ -29,13 +27,9 @@ body {
 }
 
 .textoDiv {
-    display: block;
     text-align: center;
-    text-trasnform: uppercase;
 }
 
 .texto {
-    display: block;
-    text-align: center;
     text-trasnform: uppercase;
 }
