@@ -4,6 +4,10 @@
     justify-content: center;
 }
 
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 #btnPesquisar {
     margin-top: 4rem;
     padding: 4rem;
@@ -22,6 +26,12 @@
 #btnPesquisar:hover {
     background-color: rgba(205, 9, 169, 0.669);
     box-shadow: 3px 1px 22px rgba(224, 7, 199, 0.548);
+}
+
+.textoDiv {
+    display: block;
+    text-align: center;
+    text-trasnform: uppercase;
 }
 
 .texto {
