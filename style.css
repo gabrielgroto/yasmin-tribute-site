@@ -2,14 +2,10 @@
     text-align: center;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
 body {
-    font-family: Arial, Helvetica, sans-serif;
-    background: linear-gradient(to right, #fbc2eb, #a6c1ee);
+  height: 100vh;
+  margin: 0;
+  background: linear-gradient(to right, #fbc2eb, #a6c1ee);
   background-repeat: no-repeat;
   background-size: cover;
 }
