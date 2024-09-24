@@ -8,11 +8,11 @@ function functionClick (event) {
     event.preventDefault();
     if (nameM === 'Yasmin Kuhnen') {
         alert(`O nome da mulher do Gabriel está correto, ela é a ${nameM}!`);
-        text.innerText('Te amo!');
+        text.innerText = 'Te amo!';
     }
     else {
         alert('O nome da mulher do Gabriel está incorreto! Corrige essa porra.')
-        text.innerText('Sai daqui cadela');
+        text.innerText = 'Sai daqui cadela';
         return false
     }
 }
