@@ -13,7 +13,7 @@ function functionClick(event) {
     }
     else {
         alert('O nome da mulher do Gabriel Groto está incorreto, corrige essa porra!')
-        text.innerText = 'Sai daqui sua cadela feiosa!';
+        text.innerText = 'Saia daqui agora!!!';
         return false
     }
 }
